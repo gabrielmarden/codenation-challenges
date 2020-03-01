@@ -1,3 +1,3 @@
-# Aceleração Codenation
+# Aceleração Codenation - Branch "desafio-codenation"
 
-Repositorio criado para os desafios da Aceleração Codenation.
+Branch criado para o desafio codenation "git-1".
